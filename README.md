@@ -1,4 +1,4 @@
-# Connecting Enterprise Intra- and Spillover-Risk for Bankruptcy Prediction
+# Bankruptcy Prediction via Mixing Intra-Risk and Spillover-Risk
 ## Requirements
 
 + pytorch == 1.8.1
